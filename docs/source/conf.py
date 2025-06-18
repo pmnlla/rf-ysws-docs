@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Reflow'
+copyright = '2025, Hack Club'
+author = 'Hack Club'
 
 release = '0.1'
 version = '0.1.0'
